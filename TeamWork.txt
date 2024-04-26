@@ -1,0 +1,4 @@
+Михаил - написал main.py, презентация.
+Кирилл - написал word.py, README.md, requirements.
+Егор - config.py, strings.py, пояснительная записка.
+
